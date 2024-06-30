@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+}
+   
+canvas {
+    position: fixed;
+    width: calc(100vw - 200px);
+    height: calc(100vh - 200px);
+    border: 100px solid black;
+}
